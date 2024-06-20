@@ -1,0 +1,39 @@
+button{
+    color: blue;
+    background-color: bisque;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    cursor:pointer；
+   }
+   
+   .first:hover{
+   background-color: rgb(212, 199, 182);
+   }
+   
+   .second:hover{
+   background-color: rgb(219, 172, 110);
+   }
+   
+   .first:active{
+   background-color: rgb(149, 142, 134);
+   }
+   
+   .second:active{
+   background-color: rgb(219, 137, 44);
+   }
+   
+   #title1{
+       color: rgb(85, 154, 15);
+   }
+   
+   h2{
+       color: rgb(85, 228, 181);
+   }
+
+   p{
+    color: rgb(48, 45, 45);
+   }
+   /* id,class需為英數字_-的組合但開頭不能數字 */
